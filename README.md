@@ -1,4 +1,4 @@
-# pattern_midterm
+# pattern recognition
 
 1. **이미지 분할 / 분류** — 수원 지역 항공(위성) 영상(`suwon.jpg`)의 픽셀을 RGB 색상 기준으로 4개 내외 영역으로 나누고, **K-Means**, **Mean Shift**, **MLE(가우시안 혼합 모델)** 결과를 비교합니다.
 2. **텍스처 분석** — **Laws' Texture Energy Measures**의 5×5 필터 25개를 이미지와 동영상 프레임에 적용해 텍스처 에너지 맵을 만듭니다.
